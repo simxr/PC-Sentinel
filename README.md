@@ -1,4 +1,4 @@
-# PC-Sentinel
+# WatchDog PC
 ## Turn your PC to Security Cam🕵
 Using OpenCV to take a picture when there's a face detected and save it into your laptop's directory, **without showing the cam to the user**
 ## Demo
